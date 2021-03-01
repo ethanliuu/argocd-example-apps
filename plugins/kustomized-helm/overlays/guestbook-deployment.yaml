@@ -7,4 +7,4 @@ spec:
     spec:
       containers:
         - name: helm-guestbook
-          image: "gcr.io/heptio-images/ks-guestbook-demo:0.2"
+          image: "registry.cn-beijing.aliyuncs.com/zx-common/ks-guestbook-demo:0.2"
